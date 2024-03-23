@@ -64,15 +64,15 @@ endmodule
 
 ~~~
 
+![Screenshot 2024-03-21 094816](https://github.com/Meenu2823/BOOLEAN_FUNCTION_MINIMIZATION/assets/139416219/6d15f315-f552-4271-84cc-c88ea2047317)
+
 **RTL realization**
+
 ![Screenshot 2024-03-21 092618](https://github.com/Meenu2823/BOOLEAN_FUNCTION_MINIMIZATION/assets/139416219/de44cdf3-076c-42a4-aa29-a6ac23ee33b3)
 
-
 **Output:**
+
 ![Screenshot 2024-03-21 094514](https://github.com/Meenu2823/BOOLEAN_FUNCTION_MINIMIZATION/assets/139416219/8d171afc-ba93-4ca8-a618-7a115f25cbe4)
-
-
-**Timing Diagram**
 
 **Result:**
 
