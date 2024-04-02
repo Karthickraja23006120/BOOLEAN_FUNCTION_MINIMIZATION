@@ -77,6 +77,7 @@ endmodule
 ![Screenshot 2024-03-21 094514](https://github.com/Meenu2823/BOOLEAN_FUNCTION_MINIMIZATION/assets/139416219/8d171afc-ba93-4ca8-a618-7a115f25cbe4)
 
 **Result:**
+Thus,the given logic functions are implemented using and their operations are verified using Verilog programming.
 
 Thus,the given logic functions are implemented using and their operations are verified using Verilog programming.
 
